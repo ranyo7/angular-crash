@@ -21,6 +21,7 @@ Typescript
 as well as the base angular syntax i was previously unaware of.
 
 Running the website: ng serve
+
 Running the backend server: npm run server
 
 
