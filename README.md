@@ -4,10 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The project was created by following an angular crash course by Traversy Media https://www.youtube.com/watch?v=3dHNOWTI7H8&t=4373s 
 
-The project was my introduction to angular. It consisted of:
+The project was my introduction to angular. It consisted of (new subjects):
+
 Components
+
 Observables
+
 Router
+
 Subjects
+
+Typescript
 
 as well as the base angular syntax i was previously unaware of
